@@ -1,5 +1,4 @@
-# Spectrum Allocation in Flex-grid Optical Networks
-<p>hola</p>
+# <span style="color: rgb(61, 142, 185);">Spectrum Allocation in Flex-grid Optical Networks</span> 
 
 Discrete event simulator for Optimal Spectrum Allocation in Flex-grid Optical Networks
 
